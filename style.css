@@ -829,8 +829,17 @@ h4 {
 }
 /*modification contraste couleur  */
 
-
-
+/*  */
+.paragraphe
+ {
+font-size: 22px;
+color: #333333;
+}
+.avis-client
+ {
+ font-size:15px;
+color: #333333;
+}
 
 
 
